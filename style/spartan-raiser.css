@@ -10,8 +10,8 @@
     margin-left: auto;
     margin-right: auto;
     font-family: 'Herr+Von+Muellerhoff';
-    font-size: 14px;
-    background: transparent;
+    font-size: 18px;
+color: rgba(113,113,113,0.5);
 }
 #text2 {
     justify-content: center;
@@ -19,8 +19,8 @@
     margin-left: auto;
     margin-right: auto;
     font-family: 'Special+Elite';
-    font-size: 22px;
-color: rgba(113,113,113,25);
+    font-size: 18px;
+color: rgba(113,113,113,0.5);
 }
 
 
