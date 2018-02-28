@@ -10,7 +10,7 @@ h2{
     font-family: 'Special Elite', cursive;
 }
 
-.text {
+#text {
     width: 75px;
     margin: auto;
     text-align:center;
@@ -20,4 +20,4 @@ h2{
     font-family: 'Special Elite', cursive;
     font-size: 18px;
     color: white;
-   }
+  }
