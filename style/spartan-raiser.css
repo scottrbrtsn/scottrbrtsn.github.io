@@ -2,6 +2,7 @@
    background-image:url(/pics/Gabriel_TheTank.jpg);
    background-repeat:no-repeat;
    background-size:cover;
+   justify-content: center;
 }
 
 h2{
