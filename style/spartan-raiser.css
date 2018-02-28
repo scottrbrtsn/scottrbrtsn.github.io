@@ -4,6 +4,10 @@
    background-size:cover;
 }
 
+h2{
+    justify-content: center;
+}
+
 #text {
     justify-content: center;
     display: block;
