@@ -17,7 +17,7 @@ h2{
     font-family: 'Special+Elite', cursive;
     font-size: 18px;
     background-color: transparent;
-    font-color: white;
+    color: white;
     }
 #text2 {
     justify-content: center;
@@ -26,6 +26,7 @@ h2{
     margin-right: auto;
     font-family: 'Special+Elite', cursive;
     font-size: 18px;
+    color: white;
     background-color: transparent;
 }
 
