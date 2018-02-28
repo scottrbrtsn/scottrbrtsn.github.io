@@ -2,7 +2,6 @@
    background-image:url(/pics/Gabriel_TheTank.jpg);
    background-repeat:no-repeat;
    background-size:cover;
-   justify-content: center;
 }
 
 h2{
@@ -49,4 +48,9 @@ h2{
     font-family: 'Herr+Von+Muellerhoff';
     font-size: 18px;
     background-color: transparent;
+}
+
+#signature{
+    justify-content: center;
+    font-color: white;
 }
