@@ -1,7 +1,3 @@
-body{
- font-family: 'Special+Elite'
- }
-
 #background{
    background-image:url(/pics/Gabriel_TheTank.jpg);
    background-repeat:no-repeat;
@@ -13,6 +9,8 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'Special+Elite';
+
 }
 
 #links{
