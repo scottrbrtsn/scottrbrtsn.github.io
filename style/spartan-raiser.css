@@ -12,38 +12,10 @@ h2{
 
 .text {
     text-align:center;
-    justify-content: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
     font-family: 'Special Elite', cursive;
     font-size: 18px;
-    background-color: transparent;
     color: white;
-    border:none;
-    }
-
-#links{
-    text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    font-family: 'Special Elite', cursive;
-    font-size: 18px;
-    background-color: transparent;
-}
-
-#donations{
-    text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    font-family: 'Herr+Von+Muellerhoff';
-    font-size: 18px;
-    background-color: transparent;
-}
-
-#signature{
-    text-align: center;
-    color: white;
-}
+   }
