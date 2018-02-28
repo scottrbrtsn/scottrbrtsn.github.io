@@ -26,8 +26,18 @@ color: rgba(113,113,113,0.5);
 
 #links{
     justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Herr+Von+Muellerhoff';
+    font-size: 18px;
 }
 
 #donations{
     justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Herr+Von+Muellerhoff';
+    font-size: 18px;
 }
