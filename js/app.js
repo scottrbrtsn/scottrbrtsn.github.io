@@ -1,6 +1,6 @@
 
 'use strict';
-angular.module('myApp', ['ngResource', 'ngRoute']);
+angular.module('myApp', []);
 
 
 
