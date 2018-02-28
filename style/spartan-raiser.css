@@ -15,8 +15,7 @@ h2{
     margin-right: auto;
     font-family: 'Herr+Von+Muellerhoff';
     font-size: 18px;
-color: rgba(113,113,113,0.5);
-}
+    opacity: 0.5;}
 #text2 {
     justify-content: center;
     display: block;
@@ -24,7 +23,7 @@ color: rgba(113,113,113,0.5);
     margin-right: auto;
     font-family: 'Special+Elite';
     font-size: 18px;
-color: rgba(113,113,113,0.5);
+    opacity: 0.5;
 }
 
 
