@@ -9,3 +9,5 @@ css
 ui
 
 connect to backend service
+
+google analytics
