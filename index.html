@@ -15,9 +15,9 @@
 </head>
 
 
-<body>
+<body onload="editMessage()">
 
-<p id="message">123</p>
+<p id="message"></p>
 
 
 
@@ -36,7 +36,7 @@
     return messages[Math.floor(Math.random() * messages.length)];
     }
 
-function myFunction() {
+function editMessage() {
     document.getElementById("message").innerHTML =message();
 }
 </script>
