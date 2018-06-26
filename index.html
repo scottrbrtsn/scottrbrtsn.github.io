@@ -2,14 +2,14 @@
 
 
 <head>
-    <title>The Spartan Raiser</title>
+    <title>W.I.P</title>
 
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
     <link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="/style/spartan-raiser.css">
+    <link rel="stylesheet" type="text/css" href="/style/wip.css">
 
 
 </head>
@@ -19,80 +19,28 @@
 
 <div id="background">
     <div id="text">
-        <br>
-        <h1>A GREAT DAY</h1>
-            Help me train and overcome: three races,
-        three distances, three locations.  See
-        <a href="https://www.spartan.com/en/community/blog/spartan-news?article=44998" target="_blank">www.spartan.com</a>
-        for more details.<br>
-        <br>
-
-        <h1>Why?</h1>
-
-            We believe in standards of character. <br>
-        <br>
-        ...discipline, perseverance, self-control...<br>
-        <br>
-
-            We believe in the human spirit. <br>
-        <br>
-        ...transcendence, miraculous victory, the obliteration of evil...<br>
-        <br>
-
-            And WE believe the men and women who exercise these values through their military service
-        and sacrifice embody these beliefs in such a way that deserves recognition.<br>
-        <br>
-        <h2><a href="https://www.spartan.com/en/race/learn-more/race-types-overview?article=43358" target="_blank">
-            The Honor Series.
-        </a>
-        </h2>
-            I ask you to remember the individual soldier, the son, the daughter, the brother, or sister,
-        who risks losing their limbs or life because they believe
-        your freedom and safety matter. This is not about our country’s political aims.
-        It is about the upstanding character it takes to serve.  I support these values and I support
-        the cultivation and embodiment of them.
-
-            <h1>Still reading?</h1>
-
-            Support from a distance: please donate funds or prayers.  <br>
-        <br>
-        If my goal is met, a percentage will send me to race, and the rest will go towards charities TBD.
-        You will receive a thank you gift TBD.  Minimum costs include $325 for the trifecta pass and any transportation
-        or lodging.  I should really only need to stay overnight in Dallas so this extra cost is actually minimal.
-        Should a significant number of you actually support me, I will add the
-        <a href="https://www.spartan.com/en/race/detail/3425" target="_blank">Fayetteville</a>
-        and
-        <a href="https://www.spartan.com/en/race/detail/2460" target="_blank">West Point</a>
-        sprints to the list.
-
-            <h2>Or,</h2>
-            Support locally:<br>
-            Help me train or participate with me.  Come watch the event.  Stop by and drop off some funds.  Share a recovery beverage after a workout.  🍻
-
-                <h1>The events:</h1>
-                <a href="https://www.spartan.com/en/race/detail/3402" target="_blank">Sprint, Ft Benning</a>
-                <br>
-                <br>
-                <a href="https://www.spartan.com/en/race/detail/3467" target="_blank">Super, Nashville</a>
-                <br>
-                <br>
-                <a href="https://www.spartan.com/en/race/detail/3800" target="_blank">Beast, Dallas</a>
-                <br>
-                <br>
-                <h1>The series:</h1> <a href="https://www.spartan.com/en/race/learn-more/race-types-overview?article=43358" target="_blank">
-                    The Honor Series
-                </a>
-
-                <h2>Please Donate</h2>
-                send donations written to:<br>
-                <br>
-                Scott Robertson<br>
-                3918 Cooper St<br>
-                Huntsville, Al 35801<br>
-        <br>
-        <br>
+        <p id="message"></p>
     </div>
 
 </div>
 
 </body>
+
+<script>
+
+    function message (){
+    var messages = [
+    'Your brain can heal, rebuild, and regrow.',
+    '30 minutes of exercise can change your life',
+    'You are what you eat',
+    'You are the average of your closest 5 friends',
+    'You will get better.'
+    ];
+
+    return messages[Math.floor(Math.random() * messages.length)];
+    }
+
+function myFunction() {
+    document.getElementById("message").innerHTML =message();
+}
+</script>
