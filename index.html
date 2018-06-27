@@ -9,7 +9,7 @@
 </head>
 
 
-<body onload="editMessage()">
+<body style="background-color: editColor()" onload="editMessage()">
     <div id="background">
         <div id="messageBackground">
             <button onclick="editMessage()">Try it</button>
@@ -30,12 +30,12 @@
         'You will get better.',
         'Keep it simple.',
         'It is not your fault.',
-        'Pay attention to order and chaos in your life. Stay balanced',
+        'Pay attention to the order and chaos in your life. Stay balanced.',
         'Too much chaos? your life may be slipping out of your hands.',
         'Too much order? your freedom may be restricted.',
         'The wise warrior avoids the battle.  -Sun Tzu',
-        'The victorious warrior wins first, then goes to battle.\nThe defeated warrior goes to battle, then seeks to win.\n- Sun Tzu',
-        'The fundamental state of all life is being.\nBeing is suffering.\nTo face suffering head on, accept it, and overcome it, is the greatest success.'
+        'The victorious warrior wins first, then goes to battle.The defeated warrior goes to battle, then seeks to win.\n- Sun Tzu',
+        'The fundamental state of all life is being. Being is suffering.  To face suffering head on, accept it, and overcome it, is the greatest success.'
         ];
 
         var choice = Math.floor(Math.random() * (messages.length));
@@ -45,6 +45,10 @@
 
 function editMessage() {
     document.getElementById("message").innerHTML =message();
+}
+
+function editColor(){
+    return Math.floor(Math.random() * 1000000
 }
 </script>
 
