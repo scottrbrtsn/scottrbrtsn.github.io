@@ -6,7 +6,7 @@
 
 #messageBackground {
     width: 500px;
-    height: 200px;
+    height: 500px;
     margin: auto;
     text-align:center;
     display: block;
@@ -20,5 +20,5 @@
   }
 
 #message{
-    margin-top: 50px;
+    margin-top: 100px;
 }
