@@ -9,7 +9,7 @@
 </head>
 
 
-<body style="background-color: editColor()" onload="editMessage()">
+<body onload="editMessage()">
     <div id="background">
         <div id="messageBackground">
             <button onclick="editMessage()">Try it</button>
@@ -44,6 +44,7 @@
     }
 
 function editMessage() {
+    document.body.style.backgroundColor = "" + editColor();
     document.getElementById("message").innerHTML =message();
 }
 
