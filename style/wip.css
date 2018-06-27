@@ -19,7 +19,9 @@
   }
 
 #message{
-    margin-top: 225px;
+    padding-top: 200;
+    padding-left: 10;
+    padding-right: 10;
 }
 
 #click{
