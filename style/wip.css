@@ -1,5 +1,4 @@
 #background{
-   background-image:url(/pics/Gabriel_TheTank.jpg);
    background-repeat:no-repeat;
    background-size:cover;
 }
@@ -20,5 +19,5 @@
   }
 
 #message{
-    margin-top: 100px;
+    margin-top: 250px;
 }
