@@ -17,10 +17,10 @@
 
 <body onload="editMessage()">
     <div id="background">
-        <button onclick="editMessage()">Try it</button>
-        <p id="message">
-
-        </p>
+        <div id="messageBackground">
+            <button onclick="editMessage()">Try it</button>
+            <p id="message"></p>
+        </div>
     </div>
 
 <script>
@@ -35,7 +35,13 @@
         'You are the average of your closest 5 friends',
         'You will get better.',
         'Keep it simple.',
-        'It is not your fault.'
+        'It is not your fault.',
+        'Pay attention to order and chaos in your life. Stay balanced',
+        'Too much chaos? your life may be slipping out of your hands.',
+        'Too much order? your freedom may be restricted.',
+        'The wise warrior avoids the battle.  -Sun Tzu',
+        'The victorious warrior wins first, then goes to battle.\n
+        The defeated warrior goes to battle, then seeks to win.'
         ];
 
         var choice = Math.floor(Math.random() * (messages.length));
@@ -44,7 +50,7 @@
     }
 
 function editMessage() {
-    document.getElementById("message").innerHTML ="\n\n" + message();
+    document.getElementById("message").innerHTML =message();
 }
 </script>
 

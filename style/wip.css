@@ -4,7 +4,7 @@
    background-size:cover;
 }
 
-#message {
+#messageBackground {
     width: 500px;
     height: 200px;
     margin: auto;
@@ -18,3 +18,7 @@
     font-weight: bold;
     background:rgba(255,255,255,0.7);
   }
+
+#message{
+    margin-top: 50px;
+}
