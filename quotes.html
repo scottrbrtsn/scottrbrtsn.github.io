@@ -1,0 +1,104 @@
+<html lang="en">
+
+
+<head>
+    <title>Cognitive-Lift</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/style/wip.css">
+</head>
+
+
+<body onload="editMessage()">
+    <div id="background">
+        <div onclick="editMessage()" id="messageBackground">
+            <p id="message"></p>
+        </div>
+    </div>
+    <p id="clickForMore">Click for more</p>
+
+<script>
+
+    function message (){
+        var messages = [
+        "Your brain can heal, rebuild, and regrow.",
+        "You can heal, rebuild, and regrow.",
+        "You have to choose, every moment, every day.  Not choosing is a choice. Choose wisely.",
+        "30 minutes of exercise can change your life.",
+        "You are what you eat.",
+        "You are the average of your closest 5 friends.",
+        "You will get better.",
+        "Keep it simple.",
+        "Do your best. - Don Miguel Ruiz",
+        "Don't make assumptions. - Don Miguel Ruiz",
+        "Don't take anything personally. - Don Miguel Ruiz",
+        "Be impeccable with your word.  - Don Miguel Ruiz",
+        "Accept everything just the way it is. - Myamoto Musashi",
+        "Do not seek pleasure for its own sake. - Myamoto Musashi",
+        "Do not, under any circumstances, depend on a partial feeling. - Myamoto Musashi",
+        "Think lightly of yourself and deeply of the world. - Myamoto Musashi",
+        "Be detached from desire your whole life long. - Myamoto Musashi",
+        "Do not regret what you have done. - Myamoto Musashi",
+        "Never be jealous. - Myamoto Musashi",
+        "Resentment and complaint are appropriate neither for oneself or others - Myamoto Musashi",
+        "Do not let yourself be guided by the feeling of lust or love.  - Myamoto Musashi",
+        "Do not fear death. - Myamoto Musashi",
+        "You may abandon your own body, but you must preserve your honor. - Myamoto Musashi",
+        "Never quit.",
+        "It is not your fault.",
+        "Pay attention to the order and chaos in your life. Stay balanced.",
+        "Any habit takes 21 days to hardwire into permanence.",
+        "The wise warrior avoids the battle.  - Sun Tzu",
+        "The victorious warrior wins first, then goes to battle. The defeated warrior goes to battle, then seeks to win.  - Sun Tzu",
+        "The fundamental state of all life is being. Being is suffering.  To face suffering head on, accept it, and overcome it, this is the greatest success.",
+        "Drive forward with confidence.",
+        "Are you sure you have nothing left to learn?",
+        "A journey for the hero is much more rewarding than the empty cup waiting at the end.",
+        "10 minutes of physical activity at maximum effort every day can change your life, can change your body, can change your brain, and can change who you are into who you could be.",
+        "A neuron is waiting for you to tell it what to do, otherwise it is nervous",
+        "A modern philosophy of convenience and immediate gratification ends on your couch with a piece of pizza and a beer belly. Don't be that guy!",
+        "Doughnuts are sugar-coated lies. - Jocko Willink",
+        "Discipline equals freedom. - Jocko Willink",
+        "Don't just think. Don't just talk. Don't just dream. None of that matters. The only thing that matters is that you actually do. So: DO. - Jocko Willink",
+        "The Darkness cannot extinguish your light. Your WILL. Your determination. No matter what is happening—no matter how hard the fight is. As long as you keep fighting—you win. - Jocko Willink",
+        "You have to do the work. You have to hold the line. You have to make it happen. - Jocko Willink",
+        "Get After It.",
+        "Evil is the force that believes its knowledge is complete. - Jordan Peterson",
+        "Why do dragons hoard gold? Because the thing you most need is always to be found where you least want to look. - Jordan Peterson",
+        "Here's how you can tell someone is your friend: A) You can tell them bad news, and they'll listen. B) You can tell them good news, and they'll help you celebrate. - Jordan Peterson",
+        "Watch people like a hawk, and when they do something good, tell them. - Jordan Peterson",
+        "People camouflage against the herd. People aren't after happiness, they're after not hurting. - Jordan Peterson",
+        "Don't sacrifice who you could be for who you are. - Jordan Peterson",
+        "First stop lying, then start speaking the truth. - Jordan Peterson",
+        "Being human, by definition, requires limitation.  So thank God for limitation, because without it you would cease to be.",
+        "Evil – to exploit the knowledge of your own vulnerability by turning it on others' vulnerability in order to bring more pain into the world. - Jordan Peterson",
+        "He who has a why, can bear any how. - Nietzsche"
+        ];
+
+        var choice = Math.floor(Math.random() * (messages.length));
+        console.log('choice', choice);
+        return messages[choice];
+    }
+
+function editMessage() {
+    var msg = new SpeechSynthesisUtterance();
+    var voices = window.speechSynthesis.getVoices();
+    msg.voice = voices[0]; // Note: some voices don't support altering params
+    msg.voiceURI = 'native';
+    msg.volume = 1; // 0 to 1
+    msg.rate = 1; // 0.1 to 10
+    msg.pitch = .5; //0 to 2
+    msg.text = message();
+    msg.lang = 'en-US';
+    window.speechSynthesis.speak(msg);
+
+    document.body.style.backgroundColor = "" + editColor();
+    document.getElementById("message").innerHTML = msg.text;
+}
+
+function editColor(){
+    return Math.floor(Math.random() * 1000000);
+}
+</script>
+
+</body>
