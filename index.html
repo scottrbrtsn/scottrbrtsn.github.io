@@ -18,8 +18,12 @@ document.getElementById("myDIV").addEventListener("wheel", myFunction);
 
 var size = 12
 
-function myFunction() {
-    size ++;
+function myFunction(event) {
+    if (event.deltaY > 0) {
+        size ++;
+    }else {
+        size --;
+    }
   this.style.fontSize = size;
 }
 </script>
