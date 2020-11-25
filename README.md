@@ -4,13 +4,8 @@ Work in progress
 
 ## TODO
 
-css
-
-ui
-
-connect to backend service
-
-google analytics
+Stick figure animations
+ToneJS
 
 www.youraffirmations.com
 
