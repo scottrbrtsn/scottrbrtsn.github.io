@@ -29,6 +29,25 @@
             <iframe height="1100" width="1100" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsgabUdigoB2-jiKKnsm3f8pns2Bo-7XUSBY5JbbmW-0HuTfJigHVHa_Fgqln4GA/pubhtml?widget=true&amp;headers=false"></iframe>
         </div>
     </div>
+<script>
+document.getElementById("myDIV").addEventListener("wheel", myFunction);
+
+var size = 12
+var fonts = ['Special Elite, cursive', 'Nerko One, cursive',  'Goldman, cursive', 'IM Fell EnglishSC, serif']
+var i = 0
+
+function myFunction(event) {
+    if (event.deltaY > 0) {
+        size = size + 2;
+    }else {
+        size = size - 2;
+    }
+    this.style.fontFamily = fonts[i];
+    this.style.fontSize = size;
+    i ++;
+    i = i % fonts.length;
+}
+</script>
 
 <style>
 
@@ -72,4 +91,3 @@
 </style>
 
 </body>
-
