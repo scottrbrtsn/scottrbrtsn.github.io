@@ -8,7 +8,15 @@ categories: philosophy
 # WWMD Aphorisms - an introduction
 ## What would Mason Do (WWMD)
 
-## Plato vs Heraclitus
+## Intro
+- name, relation
+
+With 50 years of experience, Dr. Robertson has formulated a framework to assist him in his work. 
+He can cite numerous examples of ideas that are simple, while nonetheless lifesaving. 
+Many may contradict or insult current popular opinion.
+
+Before he speaks I'd like to share some examples from human history, where seemingly simple ideas have created a stir of controversy. 
+
 ### Plato et al...
 - Substance
 - leads to belief in essence, absolute Truth, certainty, etc...
@@ -16,7 +24,6 @@ categories: philosophy
 ### Hericlitus
 - Change, uncertainty.
 - The whole world is on fire
-- 2: "For wisdom, listen not to me but to the Word, and know that all is one."
 - 41: "The river where you set your foot just now is gone."
 - Nothing is stable, all is in flux. Whatever you say about anything, its opposite is equally true.
 - You cannot know the world in a manner of natural philosophy, or mathematics, or deductive logic. 
@@ -29,7 +36,6 @@ categories: philosophy
 ## Copernicus
 - The Catholic Church actually initially cooperated with Copernicus as he had a great relationship with the Church. 
 - It was the protestants and poets who stalled the transmission and belief, saying a heliocentric view violated the Bible and was heresy. 
-- I'm reminded of Heraclitus. Is it possible, under certain viewpoints, both are true? 
 - Catholics, despite the Church having no official stance, eventually joined the masses against Copernicus.
 - His book and views were banned by Catholic leaders. 
 - It took almost 300 years for the ban to be lifted.
@@ -57,3 +63,6 @@ His findings earned widespread acceptance only years after his death, when Louis
 ## Into the  Future
 - Many alternative medicines are being discovered to day to have profound effects of synaptogenesis, allowing for new pathways in the brain to form
 - I find all these ideas fascinating. 
+
+## Conclusion
+Who would have thought, simply washing your hands, would have been so insulting.  
