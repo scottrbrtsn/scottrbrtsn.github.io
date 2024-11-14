@@ -35,7 +35,7 @@ In 1865, the increasingly outspoken Semmelweis was committed to an asylum by his
 His findings earned widespread acceptance only years after his death.
 
 ## WWII 
-- British horses -> tanks
+- French horses -> tanks
 
 ## Spark: science and the brain - by Dr. John Ratey c. 2008
 - AP Biology and HS Human Physiology - claimed nerve cells in the entire CNS do not reproduce.  
