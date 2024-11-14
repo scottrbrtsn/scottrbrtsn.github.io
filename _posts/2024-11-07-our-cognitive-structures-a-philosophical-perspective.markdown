@@ -9,7 +9,7 @@ categories: philosophy
 ## What would Mason Do (WWMD)
 
 ## Intro
-
+Thank you.
 
 With 50 years of experience, Dr. Robertson has formulated a framework to assist his work which he would like to share with you today. 
 
