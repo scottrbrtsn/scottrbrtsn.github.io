@@ -13,7 +13,7 @@ categories: philosophy
 
 With 50 years of experience, Dr. Robertson has formulated a framework to assist his work which he would like to share with you today. 
 
-Before he speaks I'd like to share some examples, where seemingly simple ideas have created a stir of controversy. 
+Before he speaks I'd like to share some examples, where seemingly simple ideas have been receieved with difficulty. 
 
 ## Copernicus
 - Possibly most well known
