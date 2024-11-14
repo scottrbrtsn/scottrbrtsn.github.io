@@ -11,24 +11,12 @@ categories: philosophy
 ## Intro
 - name, relation
 
-With 50 years of experience, Dr. Robertson has formulated a framework to assist his work. 
-He can cite numerous examples of ideas that are simple, while nonetheless lifesaving. 
-Many may contradict or insult current popular opinion.
+With 50 years of experience, Dr. Robertson has formulated a framework to assist his work which he would like to share with you today. 
 
 Before he speaks I'd like to share some examples, where seemingly simple ideas have created a stir of controversy. 
 
-To start, let's review a brief comparision of philosophy. 
-
-### Plato et al...
-- Substance
-- leads to belief in essence, absolute Truth, certainty, etc...
-
-### Hericlitus
-- Change, uncertainty.
-- 41: "The river where you set your foot just now is gone."
-- Nothing is stable, all is in flux. Whatever you say about anything, its opposite is equally true.
-
 ## Copernicus
+- Possibly most well known
 - Earth -> Sun
 - His book and views were banned by Catholic leaders. 
 - It took almost 300 years for the ban to be lifted.
