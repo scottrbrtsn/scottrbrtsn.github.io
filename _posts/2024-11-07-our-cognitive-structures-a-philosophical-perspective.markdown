@@ -27,8 +27,6 @@ To start, let's review a brief comparision of philosophy.
 - Change, uncertainty.
 - 41: "The river where you set your foot just now is gone."
 - Nothing is stable, all is in flux. Whatever you say about anything, its opposite is equally true.
-- You cannot know the world in a manner of natural philosophy, or mathematics, or deductive logic. 
-- Because, 36: "By cosmic rule... all things change."
 
 ## Copernicus
 - Earth -> Sun
@@ -39,11 +37,13 @@ To start, let's review a brief comparision of philosophy.
 
 Hungarian physician who was an early pioneer of antiseptic procedures.  
 In 1847, he proposed hand washing with chlorinated lime solutions at Vienna General Hospital, where doctors' wards had three times the mortality of midwives' wards.
-The maternal mortality rate dropped from 18% to less than 2%, and he published a book of his findings, Etiology, Concept and Prophylaxis of Childbed Fever, in 1861.
+The maternal mortality rate dropped from 18% to less than 2%, and he published a book of his findings.
 
-Despite his research, Semmelweis's observations conflicted with the established scientific and medical opinions and his ideas were rejected by the medical community. He could offer no theoretical explanation for his findings, and some doctors were offended at the suggestion that they should wash their hands and mocked him for it. In 1865, the increasingly outspoken Semmelweis allegedly suffered a nervous breakdown and was committed to an asylum by his colleagues. In the asylum, he was beaten by the guards. He died 14 days later from a wound on his right hand that may have been caused by the beating.
+Despite his research, Semmelweis's observations and his ideas were rejected by the medical community. He could offer no theoretical explanation for his findings, and some doctors were offended at the suggestion that they should wash their hands and mocked him for it. 
 
-His findings earned widespread acceptance only years after his death, when Louis Pasteur confirmed the theory, and Joseph Lister, who later practised and operated using hygienic methods with great success.
+In 1865, the increasingly outspoken Semmelweis was committed to an asylum by his colleagues. In the asylum, he was beaten by the guards. He died 14 days later from a wound on his right hand that may have been caused by the beating.
+
+His findings earned widespread acceptance only years after his death.
 
 ## Spark: science and the brain - by Dr. John Ratey c. 2008
 - AP Biology and HS Human Physiology - claimed nerve cells in the entire CNS do not reproduce.  
