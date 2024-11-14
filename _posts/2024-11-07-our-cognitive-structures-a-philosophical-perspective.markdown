@@ -13,7 +13,7 @@ categories: philosophy
 
 With 50 years of experience, Dr. Robertson has formulated a framework to assist his work which he would like to share with you today. 
 
-Before he speaks I was invited to share some examples, where seemingly simple ideas have been receieved with difficulty. 
+Before he speaks I was invited to share some examples, where seemingly simple ideas were receieved with extreme difficulty. 
 
 - name, relation
 
