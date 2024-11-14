@@ -41,9 +41,9 @@ Hungarian physician who was an early pioneer of antiseptic procedures.
 In 1847, he proposed hand washing with chlorinated lime solutions at Vienna General Hospital, where doctors' wards had three times the mortality of midwives' wards.
 The maternal mortality rate dropped from 18% to less than 2%, and he published a book of his findings, Etiology, Concept and Prophylaxis of Childbed Fever, in 1861.
 
-Despite his research, Semmelweis's observations conflicted with the established scientific and medical opinions and his ideas were rejected by the medical community. He could offer no theoretical explanation for his findings of reduced mortality due to hand-washing, and some doctors were offended at the suggestion that they should wash their hands and mocked him for it. In 1865, the increasingly outspoken Semmelweis allegedly suffered a nervous breakdown and was committed to an asylum by his colleagues. In the asylum, he was beaten by the guards. He died 14 days later from a gangrenous wound on his right hand that may have been caused by the beating.[4]
+Despite his research, Semmelweis's observations conflicted with the established scientific and medical opinions and his ideas were rejected by the medical community. He could offer no theoretical explanation for his findings, and some doctors were offended at the suggestion that they should wash their hands and mocked him for it. In 1865, the increasingly outspoken Semmelweis allegedly suffered a nervous breakdown and was committed to an asylum by his colleagues. In the asylum, he was beaten by the guards. He died 14 days later from a wound on his right hand that may have been caused by the beating.
 
-His findings earned widespread acceptance only years after his death, when Louis Pasteur confirmed the germ theory, giving Semmelweis' observations a theoretical explanation, and Joseph Lister, acting on Pasteur's research, practised and operated using hygienic methods with great success.
+His findings earned widespread acceptance only years after his death, when Louis Pasteur confirmed the theory, and Joseph Lister, who later practised and operated using hygienic methods with great success.
 
 ## Spark: science and the brain - by Dr. John Ratey c. 2008
 - AP Biology and HS Human Physiology - claimed nerve cells in the entire CNS do not reproduce.  
