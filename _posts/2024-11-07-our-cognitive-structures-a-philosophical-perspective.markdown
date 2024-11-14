@@ -51,9 +51,5 @@ His findings earned widespread acceptance only years after his death, when Louis
 
 ## Into the  Future
 - Many alternative medicines are being discovered to day to have profound effects of synaptogenesis, allowing for new pathways in the brain to form
-- I find all these ideas fascinating. 
 
-## Conclusion
-Who would have thought, simply washing your hands, would have been so insulting.  I hope you find these ideas and this talk tonight, fascinating.  
-
-With this, please allow me to introduce, Dr. Robertson.
+With this, please allow me to introduce, Dr. Mason Robertson.
