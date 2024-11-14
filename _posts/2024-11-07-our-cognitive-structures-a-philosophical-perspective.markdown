@@ -31,17 +31,17 @@ To start, let's review a brief comparision of philosophy.
 - Because, 36: "By cosmic rule... all things change."
 
 ## Copernicus
-- The Catholic Church actually initially cooperated with Copernicus as he had a great relationship with the Church. 
-- It was the protestants and poets who stalled the transmission and belief, saying a heliocentric view violated the Bible and was heresy. 
-- Catholics, despite the Church having no official stance, eventually joined the masses against Copernicus.
+- Earth -> Sun
 - His book and views were banned by Catholic leaders. 
 - It took almost 300 years for the ban to be lifted.
 
 ## Ignaz Semmelweis
 
-1 July 1818 – 13 August 1865) was a Hungarian physician and scientist of German descent who was an early pioneer of antiseptic procedures and was described as the "saviour of mothers".  In 1847, he proposed hand washing with chlorinated lime solutions at Vienna General Hospital's First Obstetrical Clinic, where doctors' wards had three times the mortality of midwives' wards.[3] The maternal mortality rate dropped from 18% to less than 2%, and he published a book of his findings, Etiology, Concept and Prophylaxis of Childbed Fever, in 1861.
+Hungarian physician who was an early pioneer of antiseptic procedures.  
+In 1847, he proposed hand washing with chlorinated lime solutions at Vienna General Hospital, where doctors' wards had three times the mortality of midwives' wards.
+The maternal mortality rate dropped from 18% to less than 2%, and he published a book of his findings, Etiology, Concept and Prophylaxis of Childbed Fever, in 1861.
 
-Despite his research, Semmelweis's observations conflicted with the established scientific and medical opinions of the time and his ideas were rejected by the medical community. He could offer no theoretical explanation for his findings of reduced mortality due to hand-washing, and some doctors were offended at the suggestion that they should wash their hands and mocked him for it. In 1865, the increasingly outspoken Semmelweis allegedly suffered a nervous breakdown and was committed to an asylum by his colleagues. In the asylum, he was beaten by the guards. He died 14 days later from a gangrenous wound on his right hand that may have been caused by the beating.[4]
+Despite his research, Semmelweis's observations conflicted with the established scientific and medical opinions and his ideas were rejected by the medical community. He could offer no theoretical explanation for his findings of reduced mortality due to hand-washing, and some doctors were offended at the suggestion that they should wash their hands and mocked him for it. In 1865, the increasingly outspoken Semmelweis allegedly suffered a nervous breakdown and was committed to an asylum by his colleagues. In the asylum, he was beaten by the guards. He died 14 days later from a gangrenous wound on his right hand that may have been caused by the beating.[4]
 
 His findings earned widespread acceptance only years after his death, when Louis Pasteur confirmed the germ theory, giving Semmelweis' observations a theoretical explanation, and Joseph Lister, acting on Pasteur's research, practised and operated using hygienic methods with great success.
 
