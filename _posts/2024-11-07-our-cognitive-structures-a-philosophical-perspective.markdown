@@ -20,7 +20,6 @@ Before he speaks I was invited to share some examples, where seemingly simple id
 ## Copernicus
 - Possibly most well known
 - Earth -> Sun
-- His book and views were banned by Catholic leaders. 
 - It took almost 300 years for the ban to be lifted.
 
 ## Ignaz Semmelweis
@@ -34,6 +33,9 @@ Despite his research, Semmelweis's observations and his ideas were rejected by t
 In 1865, the increasingly outspoken Semmelweis was committed to an asylum by his colleagues. In the asylum, he was beaten by the guards. He died 14 days later from a wound on his right hand that may have been caused by the beating.
 
 His findings earned widespread acceptance only years after his death.
+
+## WWII 
+- British horses -> tanks
 
 ## Spark: science and the brain - by Dr. John Ratey c. 2008
 - AP Biology and HS Human Physiology - claimed nerve cells in the entire CNS do not reproduce.  
