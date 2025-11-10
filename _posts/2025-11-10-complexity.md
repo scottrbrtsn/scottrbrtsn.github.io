@@ -9,7 +9,7 @@
 - This is useful to find the most active repositories.  
 
 ## Complexity (a tool)
-https://github.com/thoughtbot/complexity
+[](https://github.com/thoughtbot/complexity)
 
 example usage: `complexity --only .java | sort -n --reverse | head -n 3`
 
@@ -21,11 +21,11 @@ output:
 ```
 
 ## Dependency graphs.
-- [](https://github.com/tox-dev/pipdeptree)
-- [](https://github.com/kordamp/jdeps-gradle-plugin)
-- [](https://github.com/marschall/jdeps-maven-plugin)
-- [](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-nuget-why)
-- [](https://github.com/kisielk/godepgraph)
+- [https://github.com/tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+- [https://github.com/kordamp/jdeps-gradle-plugin](https://github.com/kordamp/jdeps-gradle-plugin)
+- [https://github.com/marschall/jdeps-maven-plugin](https://github.com/marschall/jdeps-maven-plugin)
+- [https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-nuget-why](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-nuget-why)
+- [https://github.com/kisielk/godepgraph](https://github.com/kisielk/godepgraph)
 
 `npm ls --all` or `npm ls [dependency]`
 
