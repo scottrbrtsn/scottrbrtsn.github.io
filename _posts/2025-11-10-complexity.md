@@ -28,10 +28,15 @@ output:
 - https://github.com/kisielk/godepgraph
 
 `npm ls --all` or `npm ls [dependency]`
+
 `pipdeptree | wc -l`
+
 `jdeps -v --dot-output . myjar.jar` && `dot summary.dot -Tpng -o summ.png`
+
 `mvn dependency:tree` or `gradle dependencies`
+
 `gradle jdeps --dot-output . && sed -i '/java/d' main.dot && sed -i '/.jar/d' main.dot && dot main.dot -Tpng -o main.png`
+
 `dotnet nuget why [<PROJECT|SOLUTION>] <PACKAGE> [-f|--framework <FRAMEWORK>]`
 
 ### Kubernetes cluster graph 
