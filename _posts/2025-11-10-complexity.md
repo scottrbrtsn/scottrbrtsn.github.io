@@ -9,7 +9,7 @@
 - This is useful to find the most active repositories.  
 
 ## Complexity (a tool)
-[](https://github.com/thoughtbot/complexity)
+[https://github.com/thoughtbot/complexity](https://github.com/thoughtbot/complexity)
 
 example usage: `complexity --only .java | sort -n --reverse | head -n 3`
 
