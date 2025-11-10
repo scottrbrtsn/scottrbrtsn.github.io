@@ -1,9 +1,7 @@
-# Principles 
-
 ## A shift left mindset
 
 ## Tighten the cycle
 
 ## Metrics
 
-## reduce complexity and cognitive load
+## Reduce complexity and cognitive load
