@@ -21,11 +21,11 @@ output:
 ```
 
 ## Dependency graphs.
-- https://github.com/tox-dev/pipdeptree
-- https://github.com/kordamp/jdeps-gradle-plugin
-- https://github.com/marschall/jdeps-maven-plugin
-- https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-nuget-why
-- https://github.com/kisielk/godepgraph
+- [](https://github.com/tox-dev/pipdeptree)
+- [](https://github.com/kordamp/jdeps-gradle-plugin)
+- [](https://github.com/marschall/jdeps-maven-plugin)
+- [](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-nuget-why)
+- [](https://github.com/kisielk/godepgraph)
 
 `npm ls --all` or `npm ls [dependency]`
 
