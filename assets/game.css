@@ -10,6 +10,6 @@ body {
 
 canvas {
     background-color: #000;
-    height: 75%;
-    width: 75%;
+    height: 150%;
+    width: 150%;
 }
