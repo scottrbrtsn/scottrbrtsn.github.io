@@ -78,12 +78,12 @@ li > ol {
  * Headings
  */
 h1 {
-  color: red
+  color: #892d16
 }
 h2 {
   color: white
 }
-h3 {color: blue}
+h3 {color: #161e89}
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
@@ -138,7 +138,7 @@ code {
 
 code {
   padding: 1px 5px;
-  color: green;
+  color: #57ff1f;
 }
 
 pre {
