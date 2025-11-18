@@ -81,9 +81,11 @@ h1 {
   color: #892d16
 }
 h2 {
+  color: #161e89
+}
+h3 {
   color: white
 }
-h3 {color: #161e89}
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
