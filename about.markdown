@@ -8,6 +8,13 @@ Enthusiastic about the intersection between cognitive science and computer scien
 carrying a strong background in research followed by professional experience in modern software development practices, 
 and driven to rise above Sisyphean life.
 
+## Values
+- Bias for simplicity.
+- Individually Sovereign AI
+- Privacy and Security
+- Local Driven Development
+- WAGNI
+
 ## Work Experience
 - ATA, LLC - Senior Software Engineer (06/2022 –Present)
 - COLSA, Corp - Software Engineer III/Artificial Intelligence Software Engineer (07/2020 –06/2022)
