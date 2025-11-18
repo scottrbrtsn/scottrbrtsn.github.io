@@ -1,6 +1,6 @@
 ## A simple RAG setup 
 
-<https://gitlab.com/petereccles/openbairhugs/-/tree/main/llm_sandbox?ref_type=heads>
+<https://gitlab.com/petereccles/openbairhugs/-/blob/main/llm_sandbox/rag_chat.py?ref_type=heads>
 
 ### Setup in < 1 hr. End - to - end in about a day.
 
