@@ -10,7 +10,8 @@ and driven to rise above Sisyphean life.
 
 ## Values
 - Bias for simplicity.
-- Individually Sovereign AI
+- Individually Sovereign
+- Know thyself and thy team
 - Privacy and Security
 - Local Driven Development
 - WAGNI
