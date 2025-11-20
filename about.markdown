@@ -16,6 +16,10 @@ and driven to rise above Sisyphean life.
 - Local Driven Development
 - WAGNI
 
+## Portfolio
+- <https://gitlab.com/scottrbrtsn>
+- <https://gitlab.com/petereccles>
+
 ## Work Experience
 - ATA, LLC - Senior Software Engineer (06/2022 –Present)
 - COLSA, Corp - Software Engineer III/Artificial Intelligence Software Engineer (07/2020 –06/2022)
