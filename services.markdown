@@ -5,7 +5,7 @@ permalink: /services/
 ---
 
 
-> Let us help you win against Big Tech
+> Let us help you win.
 
 ## Individually Sovereign AI 
 - Cloud deployments, SaaS offerings, are a long term cost risk.
