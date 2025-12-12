@@ -35,39 +35,48 @@ University of Central Florida (08/2005 – 12/2007)
 - <https://gitlab.com/petereccles>
 
 ## Work Experience (and some wins)
-- ATA, LLC - Senior Software Engineer (06/2022 –Present)
+#### ATA, LLC 
+#### Senior Software Engineer --06/2022 –Present--
   - Created a Slack channel "kaizen" as a means to disseminate and influence developer productivity and happiness.
   - Questioned the utility of "mandatory full time pair programming," aligning the team, improving psychological safety, and carving time for individual deep work, 
   - Nominated to team lead over others with more tenure.
   - Communicated up the chain: the cost of context switching, cognitive load, and poor communication as contributors to burnout.  
   - Attracted, hired, and retained multiple team members.
 
-#### COLSA, Corp - Software Engineer III/Artificial Intelligence Software Engineer (07/2020 –06/2022)
+#### COLSA, Corp 
+#### Software Engineer III/Artificial Intelligence Software Engineer --07/2020 –06/2022--
   - Applied software engineering fundamentals to assist machine learning engineers with model training and serving.  Realized up to 80% performance improvement in pipeline run times. 
 - Dynetics - Software Engineer (04/2019 –07/2020)
   - supported a revitalization of the SDLC, improving developer happiness and productivity, with 80% reduction in unnecessary meetings.
 
-#### SAIC - Senior Software Engineer – Data Collection Lead (01/2018 –04/2019)
+#### SAIC 
+#### Senior Software Engineer – Data Collection Lead --01/2018 –04/2019--
   - Deployed distributed software engineering solutions alongside science-backed training effectiveness techniques for data collection systems to enable automated performance measurement and accelerate the schedule of Undergraduate Pilot Training (UPT).
   - During iteration 0, witnessed 75% student pilot graduation rate in half the time (6 months compared to the standard 12), and 90% within 7 months. 
   - Contributed to "Best Paper" at I/ITSEC 2018 by applying decades old experience in literature and APA publication review, and including my experience in the University of Iowa's "Quantitative Training Effectiveness Assessment" platform as it had been evolved into Live, Virtual, and Constructive (LVC) training environments. 
 months, 
 
-#### General Electric - Software Engineer (2015-2018) - Predix Certified Developer (01/2017 – 01/2018) - Software Engineer Specialist (01/2016 – 01/2017) - SWEAP Apprentice (Summers, 2015 & 2016)
+#### General Electric 
+#### Software Engineer --2015-2018-- 
+#### Predix Certified Developer --01/2017 – 01/2018)--
+#### Software Engineer Specialist --01/2016 – 01/2017-- 
+#### SWEAP Apprentice --Summers, 2015 & 2016--
   - Benefited from the example of bottom-up leadership: support from senior engineers, guidance and guardrails from architects, a mature SDLC and CI/CD implementation with little to no friction between the 100+ developers supporting the thousands of users, as well as executive leadership developing direct relationships even with an entry level engineer like myself.
   - Observed weekly deployment schedules with little to no hangup of a set of microservices alongside the web service and iOS mobile application the services supported.  
   - Attended regular deep dives of new approaches to software engineering, beginning my career of life-long-learning in tech. 
 
-#### NolaBots - Robotics Team Mentor (08/2016 – 01/2018)
+#### NolaBots - Robotics Team Mentor --08/2016 – 01/2018--
   - Exercised my passion for technology and youth development.
   - Observed a high school student, implementing object oriented programming, and automating the robot to score points in addition to manual intervention during the First Robotics Competition. 
 
-#### Narrative Intelligence Laboratory, UNO - AI Research Assistant (01/2016 – 05/2016)
+#### Narrative Intelligence Laboratory, UNO 
+#### AI Research Assistant --01/2016 – 05/2016--
   - > Farrell R., Robertson S., Ware S.G. (2016) [Asking Hypothetical Questions About Stories Using QUEST](https://www.researchgate.net/publication/312693858_Asking_Hypothetical_Questions_About_Stories_Using_QUEST). In: Nack F., Gordon A. (eds) Interactive Storytelling. ICIDS 2016. Lecture Notes in Computer Science, vol 10045. Springer, Cham
 
-##### Student and odd-jobs season (August 2009 - May 2015)
+##### Student and odd-jobs season --August 2009 - May 2015--
 
-#### Kaegan Corp. - Naval Airwarfare Training Systems Division (May 2008 - August 2009)
+#### Kaegan Corp. Naval Airwarfare Training Systems Division --May 2008 - August 2009--
+#### Human Factors && Industrial Organizational Research Assistant
   - Supported all literature and APA publication review for 2 divisions of research scientists for Human Factors and Industrial Organizational Psychology research and the development of the next generation of training systems for Navy Aviators.  
   - Collaborated with University of Iowa for the Quantitative Training Effectiveness Assesment (QTEA) demonstration at I/ITSEC 2009.
   - A member of the TrUST and recipient of the Commander's Award for Science and Technology.
