@@ -67,7 +67,7 @@ months,
 
 #### NolaBots - Robotics Team Mentor **08/2016 – 01/2018**
   - Exercised my passion for technology and youth development.
-  - Observed a high school student, implementing object oriented programming, and automating the robot to score points in addition to manual intervention during the First Robotics Competition. 
+  - Observed a high school student autonomously implementing object oriented programming and automating the robot to score points in addition to manual intervention during the First Robotics Competition. 
 
 #### Narrative Intelligence Laboratory, UNO 
 #### AI Research Assistant **01/2016 – 05/2016**
