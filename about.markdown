@@ -44,7 +44,7 @@ University of Central Florida **08/2005 – 12/2007**
   - Attracted, hired, and retained multiple team members.
 
 #### COLSA, Corp 
-#### Software Engineer III/Artificial Intelligence Software Engineer **07/2020 –06/2022**
+#### Artificial Intelligence Software Engineer **07/2020 –06/2022**
   - Applied software engineering fundamentals to assist machine learning engineers with model training and serving.  Realized up to 80% performance improvement in pipeline run times. 
 - Dynetics - Software Engineer (04/2019 –07/2020)
   - supported a revitalization of the SDLC, improving developer happiness and productivity, with 80% reduction in unnecessary meetings.
