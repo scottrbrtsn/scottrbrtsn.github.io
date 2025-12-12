@@ -23,11 +23,11 @@ The drive to rise above Sisyphean life.
 - Servant leadership `--yields->` a sacrifice of pride, arrogance, and self for the greater organization, enabling sound metrics and support instead of promotion driven development and gamified KPI metrics.  
 
 ## Education
-University of New Orleans **01/2014 – 08/2016**
+#### University of New Orleans **01/2014 – 08/2016**
 - Bachelor’s of Science in Computer Science degree
-Goddard College **08/2009 – 08/2011**
+#### Goddard College **08/2009 – 08/2011**
 - Individualized Master’s concentrating primarily in Cognitive Science and Consciousness Studies.
-University of Central Florida **08/2005 – 12/2007**
+#### University of Central Florida **08/2005 – 12/2007**
 - Bachelor’s of Arts in Psychology degree
 
 ## Portfolio
