@@ -54,6 +54,7 @@ Bachelor’s of Arts in Psychology degree
 #### Dynetics
 #### Software Engineer **04/2019 –07/2020**
   - supported a revitalization of the SDLC, improving developer happiness and productivity, with 80% reduction in unnecessary meetings.
+  - simplified the mental model of a codebase for a massive desktop application comprising of 30+ repositories and about 8 layers of OOP(s) abstraction from core to UI. 
 
 #### SAIC 
 #### Senior Software Engineer – Data Collection Lead **01/2018 –04/2019**
