@@ -50,6 +50,7 @@ Bachelor’s of Arts in Psychology degree
 #### COLSA, Corp 
 #### Artificial Intelligence Software Engineer **07/2020 –06/2022**
   - Applied software engineering fundamentals to assist machine learning engineers with model training and serving.  Realized up to 80% performance improvement in pipeline run times. 
+  - Reduced 95% of manual effort towards tedious signal analysis by coordinating with SMEs and leading a team to build a multi-tier job scheduling web service during COVID telework and deployed it on-prem to support a large team of signal analysts.
 
 #### Dynetics
 #### Software Engineer **04/2019 –07/2020**
@@ -61,7 +62,6 @@ Bachelor’s of Arts in Psychology degree
   - Deployed distributed software engineering solutions alongside science-backed training effectiveness techniques for data collection systems to enable automated performance measurement and accelerate the schedule of Undergraduate Pilot Training (UPT).
   - During iteration 0, witnessed 75% student pilot graduation rate in half the time (6 months compared to the standard 12), and 90% within 7 months. 
   - Contributed to "Best Paper" at I/ITSEC 2018 by applying decades old experience in literature and APA publication review, and including my experience in the University of Iowa's "Quantitative Training Effectiveness Assessment" platform as it had been evolved into Live, Virtual, and Constructive (LVC) training environments. 
-months, 
 
 #### General Electric 
 #### Software Engineer **2015-2018**
@@ -71,6 +71,8 @@ months,
   - Benefited from the example of bottom-up leadership: support from senior engineers, guidance and guardrails from architects, a mature SDLC and CI/CD implementation with little to no friction between the 100+ developers supporting the thousands of users, as well as executive leadership developing direct relationships even with an entry level engineer like myself.
   - Observed weekly deployment schedules with little to no hangup of a set of microservices alongside the web service and iOS mobile application the services supported.  
   - Attended regular deep dives of new approaches to software engineering, beginning my career of life-long-learning in tech. 
+  - Saved $millions in lost/breached contracts from an Saved millions in lost/breached contracts from an extremely elusive bug in reporting by organizing a cross-functional team to demonstrate 1. the bug was real and 2. how to fix it. 
+  - Slashed $millions of productivity dollars for thousands of users (Field Engineers from GE Power & Oil & Gas) by creating features, troubleshoot bugs, investigate Jenkins pipelines, participate in daily scrum meetings, for a set of cloud native Java/Spring microservices supporting FieldVision
 
 #### NolaBots - Robotics Team Mentor **08/2016 – 01/2018**
   - Exercised my passion for technology and youth development.
