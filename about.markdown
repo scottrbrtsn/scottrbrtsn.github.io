@@ -71,7 +71,7 @@ months,
 
 #### Narrative Intelligence Laboratory, UNO 
 #### AI Research Assistant **01/2016 – 05/2016**
-  - > Farrell R., Robertson S., Ware S.G. (2016) [Asking Hypothetical Questions About Stories Using QUEST](https://www.researchgate.net/publication/312693858_Asking_Hypothetical_Questions_About_Stories_Using_QUEST). In: Nack F., Gordon A. (eds) Interactive Storytelling. ICIDS 2016. Lecture Notes in Computer Science, vol 10045. Springer, Cham
+> Farrell R., Robertson S., Ware S.G. (2016) [Asking Hypothetical Questions About Stories Using QUEST](https://www.researchgate.net/publication/312693858_Asking_Hypothetical_Questions_About_Stories_Using_QUEST). In: Nack F., Gordon A. (eds) Interactive Storytelling. ICIDS 2016. Lecture Notes in Computer Science, vol 10045. Springer, Cham
 
 ##### Student and odd-jobs season **August 2009 - May 2015**
 
