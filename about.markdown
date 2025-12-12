@@ -6,9 +6,9 @@ permalink: /about/
 
 ## The things I Carry
 
-- Enthusiasm for the intersection between cognitive science and computer science, 
-- Hands on experience supporting human factors engineering and Industrial Organizational Psychologists,
-- Deep application of sports psychology principles (psychology of performance, team performance measurement and improvement, leadership strategies and its effects on performance)
+- Enthusiasm for the intersection between cognitive science and computer science.
+- Hands on experience supporting human factors and Industrial Organizational Psychologists.
+- Deep application of sports psychology principles (psychology of performance, team performance measurement and improvement, leadership strategies and its effects on performance).
 - A wide net, inundated and overflowing with technologies, from legacy Windows desktop systems to modern cloud native "silver bullets," to GPU/HPC environments, I haven't seen it all, but I've seen a lot. 
 - High level appreciation for complexity science as it applies to software systems and the organizations within which they are built.  
 
