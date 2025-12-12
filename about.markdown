@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## The things I Carry
+## The Things I Carry
 
 - Enthusiasm for the intersection between cognitive science and computer science.
 - Hands on experience supporting human factors and Industrial Organizational Psychologists.
