@@ -40,8 +40,9 @@ Bachelor’s of Arts in Psychology degree
 #### ATA, LLC 
 #### Senior Software Engineer **06/2022 –Present**
   - Participated in grassroots developer culture incubation emphasizing applications of complexity science and cognitive load theory to support comprehensive sociotechnical approaches to software projects.
+  - Measured developer churn with commit counts to prove 70% of efforts were spent managing, adjusting, and refactoring deployment configuration over 30% actual value in business solutions to the customer. 
   - Created a Slack channel "kaizen" as a means to disseminate and influence developer productivity and happiness.
-  - Questioned the utility of "mandatory full time pair programming," aligning the team, improving psychological safety, and carving time for individual deep work, 
+  - Questioned the utility of "mandatory full time pair programming," aligning the team, improving psychological safety, and carving time for individual deep work.
   - Nominated to team lead over others with more tenure.
   - Communicated up the chain: the cost of context switching, cognitive load, and poor communication as contributors to burnout.  
   - Attracted, hired, and retained multiple team members.
