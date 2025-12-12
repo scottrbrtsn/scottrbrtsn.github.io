@@ -24,11 +24,13 @@ The drive to rise above Sisyphean life.
 
 ## Education
 #### University of New Orleans **01/2014 – 08/2016**
-- Bachelor’s of Science in Computer Science degree
+Bachelor’s of Science in Computer Science degree
+
 #### Goddard College **08/2009 – 08/2011**
-- Individualized Master’s concentrating primarily in Cognitive Science and Consciousness Studies.
+Master’s, concentrating primarily in Cognitive Science and Consciousness Studies.
+
 #### University of Central Florida **08/2005 – 12/2007**
-- Bachelor’s of Arts in Psychology degree
+Bachelor’s of Arts in Psychology degree
 
 ## Portfolio
 - <https://gitlab.com/scottrbrtsn>
@@ -37,6 +39,7 @@ The drive to rise above Sisyphean life.
 ## Work Experience (and some wins)
 #### ATA, LLC 
 #### Senior Software Engineer **06/2022 –Present**
+  - Participated in grassroots developer culture incubation emphasizing applications of complexity science and cognitive load theory to support comprehensive sociotechnical approaches to software projects.
   - Created a Slack channel "kaizen" as a means to disseminate and influence developer productivity and happiness.
   - Questioned the utility of "mandatory full time pair programming," aligning the team, improving psychological safety, and carving time for individual deep work, 
   - Nominated to team lead over others with more tenure.
