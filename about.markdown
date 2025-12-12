@@ -75,8 +75,8 @@ months,
 
 ##### Student and odd-jobs season **August 2009 - May 2015**
 
-#### Kaegan Corp. Naval Airwarfare Training Systems Division **May 2008 - August 2009**
-#### Human Factors && Industrial Organizational Research Assistant
+#### Kaegan Corp. Naval Airwarfare Training Systems Division 
+#### Human Factors && Industrial Organizational Research Assistant **May 2008 - August 2009**
   - Supported all literature and APA publication review for 2 divisions of research scientists for Human Factors and Industrial Organizational Psychology research and the development of the next generation of training systems for Navy Aviators.  
   - Collaborated with University of Iowa for the Quantitative Training Effectiveness Assesment (QTEA) demonstration at I/ITSEC 2009.
   - A member of the TrUST and recipient of the Commander's Award for Science and Technology.
