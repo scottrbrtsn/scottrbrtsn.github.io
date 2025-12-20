@@ -8,6 +8,7 @@
 > "Transformational leadership:
 Transformational Leadership is a leader’s capability to motivate followers by leadership
 qualities. According to cf. Avolio ‘Transformational leaders articulate a vision via metaphors, stories, personal reflections, humor, and images, and they tend to speak to the follower’s minds and their sense of purpose rather than to their wallets only’"
+
 >"Transformational Leadership style inﬂuences the followers through stories, humour, personal reﬂection metaphors, and images as compared to the punishments. According to the viewpoints of the transformational 
 leadership style, it helps to develop more commitment and motivational level among the employees. According to the previous research on transformational leadership, the organisations may enhance effective performance and productive outcomes (Zhu, Chew, & Span-gler, 2005). According to the Pygmalion effect theory, leaders can inﬂuence the performance of employees through inspirations and expectations. So good expectations can create more good results. Transformational leadership leaders have more expectations from employees through providing more support and encouragement, and create more good results."
 
