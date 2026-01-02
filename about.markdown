@@ -15,11 +15,15 @@ permalink: /about/
 The drive to rise above Sisyphean life.
 
 ## Values
-- Operating under self-imposed constraint `--yields->` tighter cycles, faster feedback, and the compounding interest in performance as a result of adaptation from stress. 
+- Self-imposed constraint `--yields->` tighter cycles, faster feedback, and the compounding interest in performance as a result of adaptation from stress. 
+  - DeF
 - Bias for simplicity  `--yields->` a reduction in complexity, cognitive load, and more straightforward constraints.
+  - KISS
 - Local Driven Development `--yields->` a shift left mindset, simplifying development, enabling optimal constraints. 
-- WAGNI (i.e. When are you going to need it) `--yields->` a balance of all the above.  Applying solutions at the point when it makes the most sense to do so, i.e. not to early, and not to late. 
-- Sound metrics -yield-> the answers to the question of WAGNI.  A data driven approach to identify when decisions can be made, and what the best answer might be.  
+  - cover and move
+- WAGNI (i.e. When are you going to need it) `--yields->` a balance of all the above.  Applying solutions at the point when it makes the most sense to do so, i.e. not too early, and not too late. 
+  - prioritize and execute
+- Sound metrics `--yield->` the answers to the question of WAGNI.  A data driven approach to identify when decisions can be made, and what the best answer might be.  
 - Servant leadership `--yields->` a sacrifice of pride, arrogance, and self for the greater organization, enabling sound metrics and support instead of promotion driven development and gamified KPI metrics.  
 
 ## Education
