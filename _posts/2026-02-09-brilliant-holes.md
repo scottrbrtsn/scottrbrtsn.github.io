@@ -6,7 +6,8 @@ Ask yourself the following questions.
 Consider asking your team. 
 
 >Two tests are specified for recognition of the asshole:
-After encountering the person, do people feel oppressed, humiliated, or otherwise worse about themselves?
+
+>After encountering the person, do people feel oppressed, humiliated, or otherwise worse about themselves?
 Does the person target people who are less powerful?
 
 This is a simple test, and anonymous administration of it may yield surprising results. 
