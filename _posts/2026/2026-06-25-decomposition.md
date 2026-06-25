@@ -1,4 +1,4 @@
-How do we decompose a system into modules?
+How do we decompose a system into modules? Does is apply to decomposing organizations into teams?
 
 In my experience, I've seen four approaches to this.
 
@@ -18,7 +18,7 @@ For the record, I don't eat much pizza, it's pretty terrible for anyone, and an 
 
 Enter Juval Lowy and his iDesign Methodology.  Like finding Plato's essence, He explains how if you can slice from a different way. By focusing on business volatilities and not just simple functions, you can reduce the number of things, which then would reduce the number of interactions, which would reduce the number of developers required, which would reduce total cost of ownership.  
 
-Out of the similar Microsoft architect community, A former design architect himself,Barry O'Reilly has discovered and approach what he calls residuality theory. Many iDesign architects explain how 80% of their work has been with brownfield projects.  This is precisely Barry's critique.  And I realize now my struggle with the eye design methodology.  When starting fresh with greenfield projects, there's little known about the solution space.  Software is, as many have argued, a wicked problem.  If you don't know what you're dealing with, Barry argues residuality is the only way to properly find a modular decomposition that will achieve criticality and not extreme cost overrun.  Many, as he argues, like myself, Come to the realization that we all practice this way of thinking behind the scenes.
+Out of the similar Microsoft architect community, A former design architect himself, Barry O'Reilly has discovered and approach what he calls residuality theory. Many iDesign architects explain how 80% of their work has been with brownfield projects.  This is precisely Barry's critique.  And I realize now my struggle with the eye design methodology.  When starting fresh with greenfield projects, there's little known about the solution space.  Software is, as many have argued, a wicked problem.  If you don't know what you're dealing with, Barry argues residuality is the only way to properly find a modular decomposition that will achieve criticality and not extreme cost overrun.  Many, as he argues, like myself, Come to the realization that we all practice this way of thinking behind the scenes.
 
 When you've experienced enough uncertainty in your life.  When you've met enough people to hear boastful, confident, opinionated expertise, which exists on either side of the aisle, the only conclusion is "it depends."  The statement "it depends" always follows with "what happens when?"
 
