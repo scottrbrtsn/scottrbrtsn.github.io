@@ -1,4 +1,6 @@
-## How do we decompose a system into modules? Does this apply to decomposing organizations into teams?
+## How do we decompose a system into modules? 
+
+Does this apply to decomposing organizations into teams?
 
 In my experience, I've seen four approaches to this.
 
