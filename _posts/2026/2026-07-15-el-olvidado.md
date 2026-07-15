@@ -13,8 +13,10 @@ Spain is known for its Tempranillo.
 
 ### El Olvidado is a story about a forgotten vine. 
 
-## Pero este Domingo, creo que hacer una historia 
-### del Dios Olvidado, entre España y Argentina.
+## Pero este Domingo, 
+### creo que hacer una historia, 
+## entre España y Argentina.
+### del Dios Olvidado
 ## Es la hora para recordar. 
 
 ![](/assets/christo.png){: width="250" }
