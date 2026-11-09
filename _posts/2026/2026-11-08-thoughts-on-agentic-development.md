@@ -1,5 +1,5 @@
 # Intro
-At the time of opening this, I received the following article: https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools
+At the time of opening this, I received the following [article](https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools)
 
 It's just so interesting to me a lot of the lessons, if not all of them, are things that were true about software and software teams and even the organization of distributed systems. We tried to go full spec up front with waterfall and that didn't work. We tried to go full tilt agile and that didn't work. We're tried to go full tilt vibe coding and that doesn't work.  Spec-driven development?  Or do we expect to arrive at some Agile Big Design Up Front where the SDLC is so fast we can change the big design and rewrite the entire system in short order?  
 
@@ -34,7 +34,9 @@ I can see justification for all of these depending on the context.
 
 
 ## [Principles](https://scottrbrtsn.github.io/2025/11/10/principles.html) I held before LLMs, I believe still hold true today.
-So then what's the spec for the spec? 
+The [DORA Report](https://cloud.google.com/resources/content/dora-roi-of-ai-assisted-software-development) has a lot to say about this.  
+
+One major takeaway I recall went something like, "AI only exaggerates the maturity level already present in the team."
 
 ### A shift left mindset
 Constraints make us better, shifting left catches things earlier.  
@@ -52,3 +54,5 @@ Constraints make us better, shifting left catches things earlier.
 
 ### Reduce complexity and cognitive load
 - We are all, after all, still human
+
+
