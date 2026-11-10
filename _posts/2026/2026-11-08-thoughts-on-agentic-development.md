@@ -88,4 +88,8 @@ I won't redundantly belabor ideas that are not my own.  But the idea of placing 
 1. General Coding.
 > Applying my principles, coding with precision has never been easier nor faster.  This allows me to see what is created, digest what an agent produces, select the parts I need, and write robust tests against what is generated. It also allows me to think on higher planes of the technical solution space, and even prove intuitions and violations of risk.  
 
+1. Exploration
+> Exploring an existing codebase, existing research, ideas/concepts/frameworks, has never been easier.  Akin to a file or web serch with a deeper graph and better pruning of the tree of results.  
 
+1. Documentation
+> Wow, the ability to generate documentation has never been easier: system/architecture designs, developer guides, troubleshooting guides, onboarding guides, local documentation for libraries/modules/code, commenting code.
