@@ -8,6 +8,7 @@ This is a brief collection of layers I think about when thinking of Agentic Soft
 1. Tiers of agent tooling
 1. The Spectrum of Agent-Driven-Development
 1. Principles I held before LLMs, I believe still hold true today.
+1. Concepts I've been using Agents to solve.
 
 ## Tiers of agent tooling
 These tiers can be combined within a single SDLC organization depending on the context (i.e. they are not mutually exclusive and an individual could span across all of them in a single day).
@@ -15,13 +16,13 @@ These tiers can be combined within a single SDLC organization depending on the c
 ### 1. Full access to foundation models, unlimited budget. 
 I am thinking of the dude that burned $1.5 million, tokenmaxxing to the extreme.  But like, I do not see reports of positive ROI...🤔
 
-### Full access to foundation models, capped token budget. 
+### 1. Full access to foundation models, capped token budget. 
 I currently have this, and it's nice enough for the business problems we solve.  A majority of information is public, so writing robust documentation has never been easier.  I have found a sweet spot for developing isolated modules for the problems we have to solve.  But I'd be very concerned with a capped budget of $30/month for big projects.  I know folks working on big projects, and they don't use Agents because the agents get lost.  This applies mostly to legacy codebases.  But like, reports show agents accelerate the path towards a legacy codebase.  How do you avoid the bloated "Big Ball of Mud."
 
-### No access to foundation models, but access to open models with a proper compute resource. 
+### 1. No access to foundation models, but access to open models with a proper compute resource. 
 These environments might be sensitive in nature, and therefore even with private foundation accounts, the data is not allowed out of the org's network. Before I received my token budget, I used Brave AI.  I tried spinning up my own agents by my video card doesn't not allow for very big models.  30B seems to be nice but I could see being extremely effective with a maxed out Gemma or Qwen.  This would flatten the token budget to enable unlimited budget in sensitive environments.   
 
-### No access to LLMs. 
+### 1. No access to LLMs. 
 This is typical for extremely sensitive environments, where compute for LLMs is not in the budget, or for projects known to require bleeding edge understanding that LLMs cannot be successful.  
 
 I believe I will always be able to operate in these types of environments.  I am not confident today's junior engineers can say the same.  
@@ -65,12 +66,12 @@ Constraints make us better, shifting left catches things earlier.
 ### Reduce complexity and cognitive load
 - We are all, after all, still human
 
-## A confirming Framework: Local First Development
+### A confirming Framework: Local First Development
 I won't redundantly belabor ideas that are not my own.  But the idea of placing constraints on our software, can be done, and lead to autonomy, greater control, and better technical solutions. 
 
 [https://local-first.com/articles/local-first-paradigm/](https://local-first.com/articles/local-first-paradigm/)
 
-## Concepts I've been using Agents. 
+## Concepts I've been using Agents to solve.
 
 1. An Expert Factory.
 > Leveraging mental models in cognitive science (e.g. BDI), construct a factory/engine to create expert level local context, and a templated method of structuring an agent's context, with the goal of assisting local context for engineers or offline agents. 
