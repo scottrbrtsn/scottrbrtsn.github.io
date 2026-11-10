@@ -70,4 +70,21 @@ I won't redundantly belabor ideas that are not my own.  But the idea of placing 
 
 [https://local-first.com/articles/local-first-paradigm/](https://local-first.com/articles/local-first-paradigm/)
 
+## Concepts I've been using Agents. 
+
+1. An Expert Factory.
+> Leveraging mental models in cognitive science (e.g. BDI), construct a factory/engine to create expert level local context, and a templated method of structuring an agent's context, with the goal of assisting local context for engineers or offline agents. 
+
+1. System stressor 
+> Agents might offer ways to stress an existing system. This can lead to finding flaws in logic, seams in integrations, and challenge early assumptions. 
+
+1. Architecture design review.
+> Agents offer a review of existing design assumptions, and can map them to the actual implementation finding holes and flaws in the actual system as it is implemented.  
+
+1. Deep research. 
+> Spinning off a set of subagents to deep dive into academic subjects.  This, like the Expert Factory, can exhaust token budgets very quickly.  
+
+1. General Coding.
+> Applying my principles, coding with precision has never been easier nor faster.  This allows me to see what is created, digest what an agent produces, select the parts I need, and write robust tests against what is generated. It also allows me to think on higher planes of the technical solution space, and even prove intuitions and violations of risk.  
+
 
