@@ -1,8 +1,17 @@
 # Intro
 At the time of opening this, I received the following [article](https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools)
 
-It's just so interesting to me a lot of the lessons, if not all of them, are things that were true about software and software teams and even the organization of distributed systems. We tried to go full spec up front with waterfall and that didn't work. We tried to go full tilt agile and that didn't work. We're tried to go full tilt vibe coding and that doesn't work.  Spec-driven development?  Or do we expect to arrive at some Agile Big Design Up Front where the SDLC is so fast we can change the big design and rewrite the entire system in short order?  
+One major takeaway I recall went something like, "AI only exaggerates the maturity level already present in the team."
 
+Just today Laura Tacho (former CTO at DevEx) posted: 
+>"Hear me out: AI is quickly exposing that we actually don't know what we should be building after all...Alignment is SO HARD."
+
+While this has also always been true, we are forced to face the hard truth:  Building the right thing, is hardest of all.  
+
+Engineers used to be hesitant to build the wrong thing, because building the wrong thing correctly is a giant waste of everyone's time and investment.
+
+
+## Contents
 This is a brief collection of layers I think about when thinking of Agentic Software Development.
 
 1. Tiers of agent tooling
@@ -42,15 +51,6 @@ I can see justification for all of these depending on the context.
 
 ## [Principles](https://scottrbrtsn.github.io/2025/11/10/principles.html) I held before LLMs, I believe still hold true today.
 The [DORA Report](https://cloud.google.com/resources/content/dora-roi-of-ai-assisted-software-development) has a lot to say about this.  
-
-One major takeaway I recall went something like, "AI only exaggerates the maturity level already present in the team."
-
-Just today Laura Tacho (former CTO at DevEx) posted: 
->"Hear me out: AI is quickly exposing that we actually don't know what we should be building after all...Alignment is SO HARD."
-
-While this has also always been true, we are forced to face the hard truth:  Building the right thing, is hardest of all.  
-
-Engineers used to be hesitant to build the wrong thing, because building the wrong thing correctly is a giant waste of everyone's time and investment.
 
 ### A shift left mindset
 Constraints make us better, shifting left catches things earlier.  
@@ -96,3 +96,6 @@ I won't redundantly belabor ideas that are not my own.  But the idea of placing 
 
 1. Documentation
 > Wow, the ability to generate documentation has never been easier: system/architecture designs, developer guides, troubleshooting guides, onboarding guides, local documentation for libraries/modules/code, commenting code.
+
+1. Rewriting in a different language. 
+> If we prove a POC with an existing implementation, then it should be straightforward to translate that to something more condusive to providing a more optimal solutoin given a problem space. 
