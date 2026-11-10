@@ -16,13 +16,13 @@ These tiers can be combined within a single SDLC organization depending on the c
 ### 1. Full access to foundation models, unlimited budget. 
 I am thinking of the dude that burned $1.5 million, tokenmaxxing to the extreme.  But like, I do not see reports of positive ROI...🤔
 
-### 1. Full access to foundation models, capped token budget. 
+### 2. Full access to foundation models, capped token budget. 
 I currently have this, and it's nice enough for the business problems we solve.  A majority of information is public, so writing robust documentation has never been easier.  I have found a sweet spot for developing isolated modules for the problems we have to solve.  But I'd be very concerned with a capped budget of $30/month for big projects.  I know folks working on big projects, and they don't use Agents because the agents get lost.  This applies mostly to legacy codebases.  But like, reports show agents accelerate the path towards a legacy codebase.  How do you avoid the bloated "Big Ball of Mud."
 
-### 1. No access to foundation models, but access to open models with a proper compute resource. 
+### 3. No access to foundation models, but access to open models with a proper compute resource. 
 These environments might be sensitive in nature, and therefore even with private foundation accounts, the data is not allowed out of the org's network. Before I received my token budget, I used Brave AI.  I tried spinning up my own agents by my video card doesn't not allow for very big models.  30B seems to be nice but I could see being extremely effective with a maxed out Gemma or Qwen.  This would flatten the token budget to enable unlimited budget in sensitive environments.   
 
-### 1. No access to LLMs. 
+### 4. No access to LLMs. 
 This is typical for extremely sensitive environments, where compute for LLMs is not in the budget, or for projects known to require bleeding edge understanding that LLMs cannot be successful.  
 
 I believe I will always be able to operate in these types of environments.  I am not confident today's junior engineers can say the same.  
