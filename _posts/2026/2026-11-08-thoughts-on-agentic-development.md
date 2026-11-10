@@ -36,11 +36,17 @@ I can see justification for all of these depending on the context.
 1. We don't read the code.  We suffer problems, but our domain/project yields it is ok if things aren't working perfectly.
 1. All vibes, baby...
 
-
 ## [Principles](https://scottrbrtsn.github.io/2025/11/10/principles.html) I held before LLMs, I believe still hold true today.
 The [DORA Report](https://cloud.google.com/resources/content/dora-roi-of-ai-assisted-software-development) has a lot to say about this.  
 
 One major takeaway I recall went something like, "AI only exaggerates the maturity level already present in the team."
+
+Just today Laura Tacho (former CTO at DevEx) posted: 
+>"Hear me out: AI is quickly exposing that we actually don't know what we should be building after all...Alignment is SO HARD."
+
+While this has also always been true, we are forced to face the hard truth:  Building the right thing, is hardest of all.  
+
+Engineers used to be hesitant to build the wrong thing, because building the wrong thing correctly is a giant waste of everyone's time and investment.
 
 ### A shift left mindset
 Constraints make us better, shifting left catches things earlier.  
@@ -58,5 +64,10 @@ Constraints make us better, shifting left catches things earlier.
 
 ### Reduce complexity and cognitive load
 - We are all, after all, still human
+
+## A confirming Framework: Local First Development
+I won't redundantly belabor ideas that are not my own.  But the idea of placing constraints on our software, can be done, and lead to autonomy, greater control, and better technical solutions. 
+
+[https://local-first.com/articles/local-first-paradigm/](https://local-first.com/articles/local-first-paradigm/)
 
 
