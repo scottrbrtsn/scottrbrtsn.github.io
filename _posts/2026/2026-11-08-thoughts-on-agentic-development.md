@@ -10,6 +10,9 @@ This is a brief collection of layers I think about when thinking of Agentic Soft
 1. Principles I held before LLMs, I believe still hold true today.
 1. Concepts I've been using Agents to solve.
 
+#### Note
+This post does not address the risks (e.g. comprehension debt, increased token cost, etc...). 
+
 ## Tiers of agent tooling
 These tiers can be combined within a single SDLC organization depending on the context (i.e. they are not mutually exclusive and an individual could span across all of them in a single day).
 
